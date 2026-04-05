@@ -50,7 +50,7 @@ Linux/macOS:
 java -cp out feira.graspcrud.Main
 ```
 
-**3. Execute a aplicação**
+Windows:
 ```powershell
 java -cp out feira.graspcrud.Main
 ```
